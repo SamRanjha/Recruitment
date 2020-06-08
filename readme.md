@@ -17,10 +17,10 @@
     Applicants are shown in a Profile Card that contains the required information
     
     React is used for the frontend.
-    Axios is used for fetch calls
-    Faker is used for generating random profiles
-    Json server for serving data
-    Bootstrap for styles 
+    Axios is used for fetch calls.
+    Faker is used for generating random profiles.
+    Json server for serving data.
+    Bootstrap for styles .
     
 ###  Available Scripts
     
