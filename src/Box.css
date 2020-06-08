@@ -1,0 +1,33 @@
+.box {
+  padding: 5px 5px 5px 5px;
+  flex-grow:0;
+  flex-shrink:0;
+  flex-basis:calc(50% - 10px);
+}
+
+.search{
+  align-self: center;
+  align-items: center;
+  width: 50%;
+  margin-left: 5.5em;
+}
+
+.grid {
+  margin-left:70px;
+  margin-right:70px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 12px;
+  padding: 5px;
+
+}
+.grid > div
+{
+  flex:1 1 auto;
+  border:1px blue solid;
+  text-align:center;
+
+  margin:1em;  /* and that, will result in a 10px gap */
+}
+

@@ -1,0 +1,11 @@
+.background {
+    background-image: url("/background.jpg");
+ }
+
+ .body{
+   margin-top: 20px;
+   margin-left: 0px;
+   background-image: url(https://mdbootstrap.com/img/Photos/Others/gradient1.jpg);
+   background-size: fill;
+   border-radius: .3rem;
+ }
